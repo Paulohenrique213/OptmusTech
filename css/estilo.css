@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#logo{
+    float: left;
+    margin: 28px;
+    color: #3A404E;
+}
+
+#menu{
+    float: right;
+    list-style: none;
+    text-decoration: none;
+}
+
+ul{
+    margin: 28px;
+    padding: 0;
+    width: 1300px;
+    text-decoration: none;
+    float: left;
+}
+
+ul li{
+    float: left;
+}
+
+ul a{
+    display: block;
+    padding: 0 2em;
+    line-height: 2.2em;
+    text-decoration: none;
+    color: #667085;
+    font-size: 1.2em;
+}
+
+#cadastro{
+    float: right;
+    margin: 28px -1300px;
+    font-size: 1.2em;
+}
+
+input{
+    padding: 16px;
+    border: none;
+	margin-bottom: 10px;
+	background-color: #8E2424;
+	background-repeat: no-repeat;
+    color: azure;
+    border-radius: 10px;
+}
+
+#cadastro a{
+    text-decoration: none;
+    margin: 48px;
+    color: #3A404E;
+}
+
+#sobre{
+    text-align: center;
+}
+
+a {
+    color: #8E2424;
+    text-decoration: none;
+}
+
+.titulo1{
+    margin: 50px;
+    font-size: 2em;
+    color: #101828;
+    text-align: center;
+
+}
+
+.descricao1{
+    color:#667085;
+}
+
+
+#informacoes{
+    padding: 80px;
+    text-align: center;
+    
+}
+
+.informacoes-caixa{
+    display: inline-block;
+    text-align: center;
+    padding: 30px;
+}
+
+#informacoes-caixa, p{
+    color: #667085;
+}
+#informacoes-caixa, h1{
+    color: #8E2424;
+}
+
+#informacoes-caixa, h2{
+    color: #101828;;
+}
+
+#vagas{
+    text-align: center;
+    padding: 30px;
+}
+
+.link1{
+    background-color: rgba(196, 25, 25, 0.03);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.titulo2{
+    color: #101828;
+}
+
+#foto-reuniao{
+    padding: 40px;
+    text-align: center;
+}
+
+fieldset{
+    margin: 20px 520px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#informacoes2{
+    margin-left: 500px;
+    padding: 30px;
+    text-align: left;
+    color: #101828;
+    font-size: 1.2em;
+}
+
+.vagas1{
+    padding: 20px;
+    color: #101828;
+    text-align: left;  
+    font-size: 1.2em;  
+}
+
+
+#fim-pagina{
+    border: #8E2424 1px solid;
+    background: rgba(196, 25, 25, 0.03);
+    margin: 0 300px;
+}
+
+#fim-pagina, a{
+    font-size: 18px;
+    text-align: center;
+    padding: 50px;
+}
+
+#fim-pagina, h1{
+    color: #101828;
+    padding: 50px;
+    font-size: 36px;
+}
+
+#fim-pagina, p{
+    color: #101828;
+    font-size: 19px;
+}
+
+#rodape{
+    margin: auto;
+	color: black;
+    text-align: center;
+    padding: 30px;
+}
+
+#cadastro2{
+    padding: 60px;
+    background-color: #F9FAFB;
+    text-align: center;
+}
+
+.cadastro3{
+    padding: 20px;
+    width: 65px;
+}
+
+#rodape1{
+    padding: 50px;
+
+}
+
+.email{
+    width: 200px;
+    padding: 20px;
+    background-color: azure;
+    color: black;
+    border: 1px solid black;
+}
+
+#final{
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cadastro{
+    padding: 20px;
+}
+
+fieldset{
+    margin: 10px 720px;
+    
+ }
+
+ input{
+    padding: 5px;
+ }
+
+button{
+    display: block;
+    text-align: center;
+}
